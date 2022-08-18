@@ -1,6 +1,10 @@
 export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.aliyun.com/homebrew/homebrew-bottles
 export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
 export PATH="/opt/homebrew/opt/llvm/bin:$PATH"
+export PATH="/opt/homebrew/anaconda3/bin:$PATH"
+
+
+
 export CLICOLOR=1
 export LSCOLORS=ExGxFxdaCxDaDahbadeche
 export TERM="xterm-256color"
