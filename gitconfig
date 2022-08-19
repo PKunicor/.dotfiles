@@ -1,6 +1,8 @@
 [user]
 	name = yao
 	email = wut_125@163.com
+[credential]  
+    helper = store
 [core]
 	excludesfile = /Users/yao/.gitignore_global
 	quotepath = false
