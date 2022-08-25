@@ -1,5 +1,7 @@
 # 管理dotfiles
 
+## rcrc:管理rcm的文件
+
 ## rcm 的 4 个命令：
 
 - `mkrc` – 将文件转换为由 rcm 管理的隐藏文件
