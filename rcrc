@@ -1,0 +1,5 @@
+#TAGS 中加入想要显示的 tag 文件
+#EXCLUDES 中加入不想要显示文件映射的文件
+
+#TAGS="rcm git"
+EXCLUDES="README.md LICENSE"

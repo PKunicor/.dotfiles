@@ -1,0 +1,6 @@
+#!/usr/bin/zsh
+# alias base
+alias vi='vim'
+alias vim='mvim'
+
+
